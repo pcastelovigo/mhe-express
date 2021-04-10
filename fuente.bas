@@ -213,7 +213,7 @@ Dim i As Integer
     posyla = Cells(i, 11).Value
     Cells(8, "Y").Value = posyla
     poszla = Cells(i, 12).Value
-    Cells(8, "Z").Value = posz
+    Cells(8, "Z").Value = poszla
     
     ThisWorkbook.Worksheets("PROGRAMA").Activate
     
