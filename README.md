@@ -3,7 +3,9 @@ MHE-Express es un programa que automatiza la exportación de puntos de vista de 
 MHE-Express es un programa (con un método) para automatizar
 la exportación de puntos de vista de Navisworks a AutoCAD y la
 generación de informes en Word.
+
 Primer uso
+
 Antes de utilizar la hoja de cálculo por primera vez, hay que
 activar las referencias para que pueda leer datos de las otras
 aplicaciones, se hace en Programador > VisualBasic >
